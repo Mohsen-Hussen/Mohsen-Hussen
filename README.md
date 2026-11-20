@@ -74,13 +74,6 @@
 - **Reusable foundations**: component libraries and form patterns that let a team ship 50+ services consistently.
 - **Team quality**: coding standards, code reviews and mentoring.
 
-### 📈 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mohsen-Hussen&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsen-Hussen&layout=compact&hide_border=true" />
-</p>
-
 ---
 
 <p align="center">📫 I'm open to Senior Frontend / Frontend Lead roles (remote or hybrid). The easiest way to reach me is <a href="https://linkedin.com/in/mohsen-hussein">LinkedIn</a>.</p>
