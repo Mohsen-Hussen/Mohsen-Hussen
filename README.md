@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohsen Hussein 👋</h1>
-<h3 align="center">Senior Frontend Developer · React · Next.js · TypeScript</h3>
+<h3 align="center">Senior Frontend Developer · React · Next.js · React Native · TypeScript</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohsen-hussein"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
